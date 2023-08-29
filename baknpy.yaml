@@ -1,0 +1,22 @@
+name: baknpy
+channels:
+  - conda-forge
+  - bioconda
+  - anaconda 
+  - nodefaults
+dependencies:
+  - python
+  - polars
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - numpy
+  - tidypolars
+  - seaborn
+  - bokeh
+  - plotnine
+  - cython
+  - pystan
+  - setuptools
+  - pyarrow
